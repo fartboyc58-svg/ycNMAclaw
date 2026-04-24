@@ -1,0 +1,10 @@
+2026-04-24T16:25:17.395Z [INFO] Workspace initialized: 4d431933-0380-42e3-afe5-d6fa6ca14fc3 (checkpoints: 0)
+2026-04-24T16:25:17.400Z [INFO] Starting Copilot CLI: 1.0.18
+2026-04-24T16:25:17.400Z [INFO] Node.js version: v24.11.1
+2026-04-24T16:25:17.972Z [ERROR] Starting remote MCP client for github-mcp-server with url: https://api.individual.githubcopilot.com/mcp/readonly
+2026-04-24T16:25:17.972Z [ERROR] Creating MCP client for github-mcp-server...
+2026-04-24T16:25:17.973Z [ERROR] Connecting MCP client for github-mcp-server...
+2026-04-24T16:25:18.423Z [ERROR] MCP client for github-mcp-server connected, took 450ms
+2026-04-24T16:25:18.424Z [ERROR] Started MCP client for remote server github-mcp-server
+2026-04-24T16:25:18.424Z [ERROR] GitHub MCP server configured after authentication
+2026-04-24T16:25:18.580Z [ERROR] Error loading models: Error: 403 "unauthorized: not authorized to use this Copilot feature\n"
